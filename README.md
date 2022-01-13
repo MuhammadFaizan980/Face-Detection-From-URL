@@ -4,7 +4,7 @@
 
 # FaceNetAuthentication
 
-Simple face recognition authentication (Sign up + Sign in) written in Flutter using Tensorflow Lite and Google ML Kit library.
+Originally from MCarlomagno, made modifications in order to compare camera stream with an image from URL. Make sure to tap scan from network first and after a while, tap on scan image button, tap VERIFY and see the result.
 
 ## Stack
 
@@ -57,15 +57,6 @@ flutter run
 
 To run on iOS you need to have a developer account.
 See here https://stackoverflow.com/a/4952845
-
-## Screenshots
-<div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
-</div>
-
-## Licence
-
-https://opensource.org/licenses/BSD-3-Clause
 
 
 
