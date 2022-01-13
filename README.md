@@ -33,7 +33,7 @@ If you're interested in contributing, please let me know emailing me to marcosca
 1- Clone the project:
 
 ```
-git clone https://github.com/MCarlomagno/FaceRecognitionAuth.git
+git clone https://github.com/MuhammadFaizan980/Face-Detection-From-URL.git
 ```
 2- Open the folder:
 
